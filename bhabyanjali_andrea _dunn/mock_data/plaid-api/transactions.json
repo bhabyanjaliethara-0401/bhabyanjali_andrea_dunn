@@ -1,0 +1,74 @@
+[
+  {
+    "transaction_id": "txn_0001",
+    "account_id": "acc_chk_001",
+    "amount": "385.00",
+    "iso_currency_code": "USD",
+    "date": "2026-09-28",
+    "name": "Private Sale - Chris Mitchell",
+    "merchant_name": "Chris Mitchell",
+    "category": "Transfer",
+    "pending": "false",
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn_0002",
+    "account_id": "acc_chk_001",
+    "amount": "12.50",
+    "iso_currency_code": "USD",
+    "date": "2026-09-29",
+    "name": "Blue Bottle Coffee",
+    "merchant_name": "Blue Bottle Coffee",
+    "category": "Food and Drink;Coffee Shop",
+    "pending": "false",
+    "payment_channel": "in store"
+  },
+  {
+    "transaction_id": "txn_0003",
+    "account_id": "acc_chk_001",
+    "amount": "86.43",
+    "iso_currency_code": "USD",
+    "date": "2026-09-29",
+    "name": "Whole Foods Market",
+    "merchant_name": "Whole Foods Market",
+    "category": "Food and Drink;Groceries",
+    "pending": "false",
+    "payment_channel": "in store"
+  },
+  {
+    "transaction_id": "txn_0004",
+    "account_id": "acc_chk_001",
+    "amount": "127.00",
+    "iso_currency_code": "USD",
+    "date": "2026-09-28",
+    "name": "PATH Transit",
+    "merchant_name": "PATH Transit",
+    "category": "Travel;Transit",
+    "pending": "false",
+    "payment_channel": "in store"
+  },
+  {
+    "transaction_id": "txn_0005",
+    "account_id": "acc_chk_001",
+    "amount": "300.00",
+    "iso_currency_code": "USD",
+    "date": "2026-09-27",
+    "name": "Transfer to Linda Dunn",
+    "merchant_name": "Linda Dunn",
+    "category": "Transfer",
+    "pending": "false",
+    "payment_channel": "other"
+  },
+  {
+    "transaction_id": "txn_0006",
+    "account_id": "acc_chk_001",
+    "amount": "250.00",
+    "iso_currency_code": "USD",
+    "date": "2026-09-27",
+    "name": "Transfer to Amara Dunn",
+    "merchant_name": "Amara Dunn",
+    "category": "Transfer",
+    "pending": "false",
+    "payment_channel": "other"
+  }
+]

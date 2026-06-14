@@ -1,0 +1,32 @@
+[
+  {
+    "tableId": "tblSneakers00001",
+    "id": "fldSneakerName00",
+    "name": "Name",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblSneakers00001",
+    "id": "fldSneakerSKU000",
+    "name": "SKU",
+    "type": "singleLineText"
+  },
+  {
+    "tableId": "tblSneakers00001",
+    "id": "fldSneakerPurP00",
+    "name": "PurchasePrice",
+    "type": "number"
+  },
+  {
+    "tableId": "tblSneakers00001",
+    "id": "fldSneakerEstV00",
+    "name": "EstimatedValuation",
+    "type": "number"
+  },
+  {
+    "tableId": "tblSneakers00001",
+    "id": "fldSneakerStat00",
+    "name": "Status",
+    "type": "singleSelect"
+  }
+]

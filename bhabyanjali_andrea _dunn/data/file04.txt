@@ -1,0 +1,16 @@
+Upcoming Sneaker Drops - Fall 2026 Calendar
+This release calendar lists upcoming sneaker drops, dates, and expected retail prices. Use these values to cross-reference against the discretionary budget rules.
+
+Release Details:
+1. 2026-09-15: Nike Dunk Low Panda - Retail: $115.00
+   Status: General Release. Low priority.
+2. 2026-09-22: Adidas Yeezy Boost 350 v2 Zebra - Retail: $230.00
+   Status: Limited restock. Requires verification of secondary comps.
+3. 2026-10-03: Jordan 4 Bred Reimagined - Retail: $220.00
+   Status: High priority drop. Price exceeds $100 threshold limit, requires manual approval.
+4. 2026-10-15: New Balance 990v6 Grey - Retail: $200.00
+   Status: Daily wear replacement.
+5. 2026-10-28: Nike Air Force 1 '07 - Retail: $115.00
+   Status: Standard rotation.
+
+Note: All prices are in USD and do not include local NJ sales tax. Confirm available balance in Chase checking before submitting launch draw entries.

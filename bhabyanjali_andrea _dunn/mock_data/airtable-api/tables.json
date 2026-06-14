@@ -1,0 +1,9 @@
+[
+  {
+    "baseId": "appSneakers0001",
+    "id": "tblSneakers00001",
+    "name": "Sneakers",
+    "primaryFieldId": "fldSneakerName00",
+    "records_csv": "records_sneakers.csv"
+  }
+]

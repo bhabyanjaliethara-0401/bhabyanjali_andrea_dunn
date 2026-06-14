@@ -1,0 +1,7 @@
+difficulty: hard
+modalities: [text, document, audio]
+l1: commerce_product
+l2: visual_shopping_comparison
+task_type: multimodal_reconciliation
+required_apis: [plaid, gmail, airtable]
+distractor_apis: [stripe, paypal]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ORDER-3PP55667XY778899Z",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "29.99",
+    "currency_code": "USD",
+    "payee_email": "merchant@paypal-distractor.com",
+    "description": "Personal subscription",
+    "create_time": "2026-09-15T09:00:00Z"
+  },
+  {
+    "id": "ORDER-4QQ88990AB112233Y",
+    "intent": "CAPTURE",
+    "status": "APPROVED",
+    "amount_value": "15.00",
+    "currency_code": "USD",
+    "payee_email": "merchant@paypal-distractor.com",
+    "description": "Hobby material purchase",
+    "create_time": "2026-09-18T11:15:00Z"
+  },
+  {
+    "id": "ORDER-5RR11223CD445566X",
+    "intent": "CAPTURE",
+    "status": "CREATED",
+    "amount_value": "89.00",
+    "currency_code": "USD",
+    "payee_email": "merchant@paypal-distractor.com",
+    "description": "Clothing order",
+    "create_time": "2026-09-22T14:30:00Z"
+  },
+  {
+    "id": "ORDER-6SS44556EF778899W",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "amount_value": "5.50",
+    "currency_code": "USD",
+    "payee_email": "merchant@paypal-distractor.com",
+    "description": "App purchase",
+    "create_time": "2026-09-23T08:45:00Z"
+  }
+]

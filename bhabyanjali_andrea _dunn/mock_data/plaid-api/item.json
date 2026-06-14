@@ -1,0 +1,20 @@
+{
+  "item": {
+    "item_id": "item_andrea_0147fc",
+    "institution_id": "ins_chase",
+    "webhook": "https://example.com/plaid/webhook",
+    "available_products": ["balance", "identity"],
+    "billed_products": ["transactions", "auth"],
+    "consent_expiration_time": null,
+    "update_type": "background"
+  },
+  "institution": {
+    "institution_id": "ins_chase",
+    "name": "Chase Bank",
+    "products": ["transactions", "auth", "balance", "identity"],
+    "country_codes": ["US"],
+    "url": "https://www.chase.com",
+    "primary_color": "#1172b0",
+    "routing_numbers": ["021000021"]
+  }
+}

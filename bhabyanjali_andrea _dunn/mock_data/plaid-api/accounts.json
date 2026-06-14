@@ -1,0 +1,26 @@
+[
+  {
+    "account_id": "acc_chk_001",
+    "name": "Chase Checking",
+    "official_name": "Chase Total Checking",
+    "mask": "0147",
+    "type": "depository",
+    "subtype": "checking",
+    "available": "3420.38",
+    "current": "3420.38",
+    "limit": "",
+    "iso_currency_code": "USD"
+  },
+  {
+    "account_id": "acc_sav_002",
+    "name": "Marcus HYSA",
+    "official_name": "Marcus High-Yield Savings",
+    "mask": "8500",
+    "type": "depository",
+    "subtype": "savings",
+    "available": "8500.00",
+    "current": "8500.00",
+    "limit": "",
+    "iso_currency_code": "USD"
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "rec_0001",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 4 Retro Bred (2019)",
+    "SKU": "308497-060",
+    "PurchasePrice": "220.00",
+    "EstimatedValuation": "440.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0002",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 1 Retro High Chicago (2015)",
+    "SKU": "555088-101",
+    "PurchasePrice": "160.00",
+    "EstimatedValuation": "950.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0003",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Travis Scott Mocha Jordan 1 Low",
+    "SKU": "CQ4277-001",
+    "PurchasePrice": "130.00",
+    "EstimatedValuation": "1100.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0004",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Yeezy Boost 350 V2 Beluga",
+    "SKU": "BB1826",
+    "PurchasePrice": "220.00",
+    "EstimatedValuation": "320.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0005",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "New Balance 990v5 Grey",
+    "SKU": "M990GL5",
+    "PurchasePrice": "175.00",
+    "EstimatedValuation": "185.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0006",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Nike Dunk Low Panda",
+    "SKU": "DD1391-100",
+    "PurchasePrice": "100.00",
+    "EstimatedValuation": "115.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0007",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 3 Retro White Cement",
+    "SKU": "DN3707-100",
+    "PurchasePrice": "210.00",
+    "EstimatedValuation": "240.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0008",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Yeezy Slide Bone",
+    "SKU": "FW6345",
+    "PurchasePrice": "60.00",
+    "EstimatedValuation": "120.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0009",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "New Balance 550 White Green",
+    "SKU": "BB550WT1",
+    "PurchasePrice": "110.00",
+    "EstimatedValuation": "120.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0010",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 1 Retro High Bred Toe",
+    "SKU": "555088-610",
+    "PurchasePrice": "160.00",
+    "EstimatedValuation": "380.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0011",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Yeezy Foam Runner Ararat",
+    "SKU": "G55486",
+    "PurchasePrice": "75.00",
+    "EstimatedValuation": "180.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0012",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Nike Air Force 1 Low Supreme White",
+    "SKU": "CU9225-100",
+    "PurchasePrice": "96.00",
+    "EstimatedValuation": "110.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0013",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Asics Gel-Kayano 14 Cream Black",
+    "SKU": "1201A019-108",
+    "PurchasePrice": "150.00",
+    "EstimatedValuation": "210.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0014",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 1 Retro High Obsidian",
+    "SKU": "555088-140",
+    "PurchasePrice": "160.00",
+    "EstimatedValuation": "320.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0015",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Yeezy Boost 700 Wave Runner",
+    "SKU": "B75571",
+    "PurchasePrice": "300.00",
+    "EstimatedValuation": "390.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0016",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "New Balance 2002R Protection Pack Rain Cloud",
+    "SKU": "M2002RDA",
+    "PurchasePrice": "150.00",
+    "EstimatedValuation": "220.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0017",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 11 Retro Jubilee",
+    "SKU": "CT8012-011",
+    "PurchasePrice": "220.00",
+    "EstimatedValuation": "250.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0018",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Nike Air Max 97 Silver Bullet",
+    "SKU": "DM0028-002",
+    "PurchasePrice": "185.00",
+    "EstimatedValuation": "195.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0019",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Travis Scott Jordan 1 Low Reverse Mocha",
+    "SKU": "DM7866-162",
+    "PurchasePrice": "150.00",
+    "EstimatedValuation": "980.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0020",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Adidas Samba OG Cloud White",
+    "SKU": "B75806",
+    "PurchasePrice": "100.00",
+    "EstimatedValuation": "110.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0021",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 4 Retro Military Black",
+    "SKU": "DH6927-111",
+    "PurchasePrice": "210.00",
+    "EstimatedValuation": "340.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0022",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "New Balance 990v6 Grey",
+    "SKU": "M990GL6",
+    "PurchasePrice": "200.00",
+    "EstimatedValuation": "210.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0023",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Yeezy Boost 350 V2 Zebra",
+    "SKU": "CP9654",
+    "PurchasePrice": "220.00",
+    "EstimatedValuation": "290.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0024",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 1 Retro High Royal",
+    "SKU": "555088-007",
+    "PurchasePrice": "160.00",
+    "EstimatedValuation": "280.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0025",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Nike Dunk Low Syracuse",
+    "SKU": "CU1726-101",
+    "PurchasePrice": "100.00",
+    "EstimatedValuation": "230.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0026",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 3 Retro Fire Red",
+    "SKU": "DN3707-160",
+    "PurchasePrice": "210.00",
+    "EstimatedValuation": "220.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0027",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Yeezy Slide Onyx",
+    "SKU": "HQ6448",
+    "PurchasePrice": "60.00",
+    "EstimatedValuation": "110.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0028",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "New Balance 1906R White Green",
+    "SKU": "M1906RG",
+    "PurchasePrice": "155.00",
+    "EstimatedValuation": "165.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0029",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 1 Retro High Shadow",
+    "SKU": "555088-013",
+    "PurchasePrice": "160.00",
+    "EstimatedValuation": "260.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0030",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Nike Air Max 1 Crepe Hemp",
+    "SKU": "FD5088-200",
+    "PurchasePrice": "180.00",
+    "EstimatedValuation": "185.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0031",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Yeezy Boost 350 V2 Cream White",
+    "SKU": "CP9366",
+    "PurchasePrice": "220.00",
+    "EstimatedValuation": "260.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0032",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "New Balance 993 Grey",
+    "SKU": "MR993GL",
+    "PurchasePrice": "185.00",
+    "EstimatedValuation": "195.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0033",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 4 Retro Cool Grey",
+    "SKU": "308497-007",
+    "PurchasePrice": "190.00",
+    "EstimatedValuation": "320.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0034",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Nike Dunk Low Spartan Green",
+    "SKU": "CZ1351-101",
+    "PurchasePrice": "100.00",
+    "EstimatedValuation": "190.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0035",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 11 Retro Concord",
+    "SKU": "378037-100",
+    "PurchasePrice": "220.00",
+    "EstimatedValuation": "380.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0036",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Yeezy Boost 700 V2 Static",
+    "SKU": "EF2829",
+    "PurchasePrice": "300.00",
+    "EstimatedValuation": "310.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0037",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "New Balance 9060 Rain Cloud",
+    "SKU": "U9060HSC",
+    "PurchasePrice": "150.00",
+    "EstimatedValuation": "175.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0038",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 1 Retro High Travis Scott Mocha",
+    "SKU": "CD4487-100",
+    "PurchasePrice": "175.00",
+    "EstimatedValuation": "1350.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0039",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Nike LD Waffle Sacai Green Multi",
+    "SKU": "BV0073-300",
+    "PurchasePrice": "155.00",
+    "EstimatedValuation": "310.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0040",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 4 Retro Lightning",
+    "SKU": "CT8527-700",
+    "PurchasePrice": "220.00",
+    "EstimatedValuation": "260.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0041",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Yeezy Boost 350 V2 Beluga 2.0",
+    "SKU": "AH2203",
+    "PurchasePrice": "220.00",
+    "EstimatedValuation": "300.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0042",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "New Balance 992 Grey",
+    "SKU": "M992GR",
+    "PurchasePrice": "175.00",
+    "EstimatedValuation": "270.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0043",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 1 Retro High Union Los Angeles Blue Toe",
+    "SKU": "BV1300-146",
+    "PurchasePrice": "190.00",
+    "EstimatedValuation": "1200.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0044",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Nike Dunk Low Michigan",
+    "SKU": "DD1391-700",
+    "PurchasePrice": "100.00",
+    "EstimatedValuation": "130.00",
+    "Status": "active"
+  },
+  {
+    "id": "rec_0045",
+    "createdTime": "2026-05-18T12:00:00.000Z",
+    "Name": "Jordan 5 Retro Fire Red",
+    "SKU": "DA1911-102",
+    "PurchasePrice": "200.00",
+    "EstimatedValuation": "210.00",
+    "Status": "active"
+  }
+]

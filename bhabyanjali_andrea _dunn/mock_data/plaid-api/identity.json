@@ -1,0 +1,38 @@
+{
+  "owners": {
+    "acc_chk_001": [
+      {
+        "names": ["Andrea Michael Dunn"],
+        "emails": [
+          {"data": "andrea.dunn@Finthesiss.ai", "primary": true, "type": "primary"}
+        ],
+        "phone_numbers": [
+          {"data": "+19735550147", "primary": true, "type": "mobile"}
+        ],
+        "addresses": [
+          {
+            "data": {"street": "200 Washington Blvd, Apt 4C", "city": "Jersey City", "region": "NJ", "postal_code": "07310", "country": "US"},
+            "primary": true
+          }
+        ]
+      }
+    ],
+    "acc_sav_002": [
+      {
+        "names": ["Andrea Michael Dunn"],
+        "emails": [
+          {"data": "andrea.dunn@Finthesiss.ai", "primary": true, "type": "primary"}
+        ],
+        "phone_numbers": [
+          {"data": "+19735550147", "primary": true, "type": "mobile"}
+        ],
+        "addresses": [
+          {
+            "data": {"street": "200 Washington Blvd, Apt 4C", "city": "Jersey City", "region": "NJ", "postal_code": "07310", "country": "US"},
+            "primary": true
+          }
+        ]
+      }
+    ]
+  }
+}
